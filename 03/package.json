@@ -1,0 +1,15 @@
+{
+  "name": "aoc2021-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paffeuu/aoc2021.git"
+  },
+  "author": "Paweł Kowański",
+  "license": "ISC"
+}
