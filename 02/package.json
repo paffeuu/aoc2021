@@ -1,5 +1,5 @@
 {
-  "name": "aoc2021-01",
+  "name": "aoc2021-02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,5 @@
     "url": "git+https://github.com/paffeuu/aoc2021.git"
   },
   "author": "Paweł Kowański",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/paffeuu/aoc2021/issues"
-  },
-  "homepage": "https://github.com/paffeuu/aoc2021#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  }
+  "license": "ISC"
 }
